@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+form{
+	width:50vw;
+	display:flex;
+	flex-direction:column;
+	gap:5px
+}
